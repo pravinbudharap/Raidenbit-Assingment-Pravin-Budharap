@@ -1,0 +1,89 @@
+{
+  "messageOfTheDay": "Good morning!",
+  "imagePath": "https://via.placeholder.com/",
+  "items": [
+    {
+      "title": "TITLE 1",
+      "image": "150/000000/FFFFFF/?text=1",
+      "available": true,
+      "address": "http://google.com"
+    },
+    {
+      "title": "TITLE 2",
+      "image": "150/000000/FF0000/?text=2",
+      "available": true,
+      "address": "http://yahoo.com"
+    },
+    {
+      "title": "TITLE 3",
+      "image": "150/000000/FFFFFF/?text=3",
+      "available": true,
+      "address": "http://bing.com"
+    },
+    {
+      "title": "TITLE 4",
+      "image": "150/000000/FF0000/?text=4",
+      "available": false
+    },
+    {
+      "title": "TITLE 5",
+      "image": "150/000000/FFFFFF/?text=5",
+      "available": false
+    },
+    {
+      "title": "TITLE 6",
+      "image": "150/000000/FF0000/?text=6",
+      "available": true,
+      "address": "http://google.com"
+    },
+    {
+      "title": "TITLE 7",
+      "image": "150/000000/FFFFFF/?text=7",
+      "available": false
+    },
+    {
+      "title": "TITLE 8",
+      "image": "150/000000/FF0000/?text=8",
+      "available": false
+    },
+    {
+      "title": "TITLE 9",
+      "image": "150/000000/FFFFFF/?text=9",
+      "available": false
+    },
+    {
+      "title": "TITLE 10",
+      "image": "150/000000/FF0000/?text=10",
+      "available": true,
+      "address": "http://duckduckgo.com"
+    },
+    {
+      "title": "TITLE 11",
+      "image": "150/000000/FFFFFF/?text=11",
+      "available": true,
+      "address": "http://microsoft.com"
+    },
+    {
+      "title": "TITLE 12",
+      "image": "150/000000/FF0000/?text=12",
+      "available": true,
+      "address": "http://apple.com"
+    },
+    {
+      "title": "TITLE 13",
+      "image": "150/000000/FFFFFF/?text=13",
+      "available": false
+    },
+    {
+      "title": "TITLE 14",
+      "image": "150/000000/FF0000/?text=14",
+      "available": true,
+      "address": "http://kahanibox.com"
+    },
+    {
+      "title": "TITLE 15",
+      "image": "150/000000/FFFFFF/?text=15",
+      "available": false
+    }
+  ]
+}
